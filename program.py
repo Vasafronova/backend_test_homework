@@ -1,5 +1,6 @@
-from audioop import add
-from itertools import combinations_with_replacement
+print("Я домашка")
 
-
-print('Я домашка')
+i = 0
+while i<5:
+    i = i + 1
+    print(i)
